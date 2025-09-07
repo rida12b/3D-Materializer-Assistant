@@ -1,0 +1,5 @@
+{
+  "name": "3D Materializer Assistant",
+  "description": "Upload a 2D drawing or image and use AI to generate a complete set of orthogonal and perspective views, creating a 'turnaround sheet' ready for 3D modeling via photogrammetry.",
+  "requestFramePermissions": []
+}
